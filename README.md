@@ -9,6 +9,6 @@ Students are expected to:
 Student Info
 =========================
 
-* Student Name: USTH ICT1
-* Student ID: Not-Vietnamese
+* Student Name: Lưu Bá Anh
+* Student ID: BI12-028
 * Student Group ID: Not-for-now
